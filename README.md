@@ -1,7 +1,7 @@
 # Computer unique code generator
  generate the constant & unique code for a computer according to the CPU ID & hard disk id & MAC address & Motherboard ID 
  ## 作用
-可以根据电脑的 CPU编号、硬盘id编号、MAC地址、主板 id编号 生成一个全球唯一的、只针对当前电脑的 编码。
+可以根据电脑的 CPU编号、硬盘id编号、MAC地址、主板 id编号 生成一个全球唯一的、持久不变的（除非电脑更换了硬件）、只针对当前电脑的 编码。
  ## 此项目可以用于：
  限定软件只可以运行在指定电脑上。
  ## 具体方法：
